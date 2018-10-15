@@ -1,1 +1,4 @@
 credential.tf
+secret.tf
+terraform
+.terraform
