@@ -2,3 +2,4 @@ credential.tf
 secret.tf
 terraform
 .terraform
+*.log

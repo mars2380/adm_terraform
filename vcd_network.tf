@@ -1,5 +1,5 @@
 resource "vcd_network" "net" {
-  name         = "my-test_net_01"
+  name         = "my-test_net_02"
   edge_gateway = "Edge Gateway Name"
   gateway      = "10.10.0.1"
 
